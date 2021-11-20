@@ -1,7 +1,6 @@
-# C964
+# C964heroku
 
-Quick Start Guide
-
-To launch, click the "launch binder" button below. A docker container will gather together the dependencies and code into an image and deploy it to a server where you can interact with the model inside of a web page. Please allow time for this process to occur; it may take up to several minutes. If it does not launch on the first try, please return here and try again.
-
-DOES NOT WORK [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/solo964/C964/HEAD)
+Capstone file directory
+* Main C964 directory at: https://github.com/solo964/C964
+* Heroku deployment files at: https://github.com/solo964/C964heroku
+* Login site at: https://github.com/solo964/solo964.github.io
