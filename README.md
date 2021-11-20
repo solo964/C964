@@ -1,4 +1,4 @@
-# C964heroku
+# C964
 
 Capstone file directory
 * Main C964 directory at: https://github.com/solo964/C964
